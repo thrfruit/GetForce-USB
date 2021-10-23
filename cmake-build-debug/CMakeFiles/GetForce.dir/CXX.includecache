@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/usb-daq-v20.h
+
+G:/Software/ClionProject/GetForce/main.cpp
+iostream
+-
+usb-daq-v20.h
+G:/Software/ClionProject/GetForce/usb-daq-v20.h
+windows.h
+G:/Software/ClionProject/GetForce/windows.h
+
